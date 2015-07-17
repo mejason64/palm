@@ -1,0 +1,22 @@
+/*my dev scss file*/
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin-top: 50px;
+  padding-bottom: 50px;
+  background-color: white;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#myGame {
+  border: 4px solid blue;
+  background-color: #bf4040;
+}
